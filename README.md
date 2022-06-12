@@ -25,3 +25,5 @@
 ## Database management
 #### I have used MySql relational database to handle my data. I have created five tables to store my details.
 ### Tables in database
+![sql](https://user-images.githubusercontent.com/73719880/173212759-1ee04ea1-c347-4426-bd70-8ad141b1bec5.jpg)
+
