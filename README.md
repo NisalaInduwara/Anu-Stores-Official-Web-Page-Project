@@ -16,3 +16,9 @@
 
 ### Search Tab
 ![search](https://user-images.githubusercontent.com/73719880/173212311-4d8e9903-bd45-462e-888a-f26cf6d5a48b.jpg)
+
+## Results web page
+### The search results will be shown using results web page as tables
+![results1](https://user-images.githubusercontent.com/73719880/173212575-25912d84-31c6-48e3-86f5-3cd5b7d61a0a.jpg)
+![results2](https://user-images.githubusercontent.com/73719880/173212580-4272976d-debf-48b2-8fe3-fd7eccaaa7ec.jpg)
+
